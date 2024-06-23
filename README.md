@@ -1,2 +1,2 @@
-# amandascore20-Pack
-This Is My Last VBS or Batch Malware
+# amandascore20
+C++ short skidded GDI trojan by Hugopako, password: 25
